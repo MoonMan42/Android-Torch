@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Torch</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="off_txt">OFF</string>
+    <string name="on_txt">ON</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-2384895434661543/4039128316</string>
+</resources>
